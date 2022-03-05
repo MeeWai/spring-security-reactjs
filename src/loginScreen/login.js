@@ -77,7 +77,7 @@ const Login = () => {
                                     <Button variant="contained" size="medium">Login</Button>
                                 </div>
 
-                                <div className="forgotPassword" onClick={() => navigate("/forgotPassword")}>
+                                <div className="forgotPassword" onClick={() => navigate("forgotPassword")}>
                                     <h6>Forgot password? Click here</h6>
                                 </div>
                             </Grid>
