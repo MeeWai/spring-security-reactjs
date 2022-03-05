@@ -5,6 +5,7 @@ import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import TextField from '@mui/material/TextField';
 import "./login.css"
+
 import {useNavigate} from "react-router-dom";
 
 const Login = () => {
@@ -34,6 +35,7 @@ const Login = () => {
     }
 
     //https://www.kindacode.com/article/programmatically-navigate-using-react-router/
+    //https://stackoverflow.com/questions/70403175/no-routes-matched-location-rewards-store/70403258
     const navigate = useNavigate();
 
     // const [username, setUsername] = useState("");
@@ -72,7 +74,8 @@ const Login = () => {
                                         label="Password"
                                     />
                                 </FormControl>
-
+                            </Grid>
+                            <Grid  item lg={12} xs={12} sm={12}>
                                 <div className="loginButton">
                                     <Button variant="contained" size="medium">Login</Button>
                                 </div>
