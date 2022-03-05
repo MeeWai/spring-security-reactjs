@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spring-security-reactjs/static/css/main.415020a6.css",
-    "main.js": "/spring-security-reactjs/static/js/main.db321f03.js",
-    "static/js/787.7e8b6def.chunk.js": "/spring-security-reactjs/static/js/787.7e8b6def.chunk.js",
+    "main.js": "/spring-security-reactjs/static/js/main.a7d27268.js",
+    "static/js/787.7d9febbf.chunk.js": "/spring-security-reactjs/static/js/787.7d9febbf.chunk.js",
     "index.html": "/spring-security-reactjs/index.html",
     "main.415020a6.css.map": "/spring-security-reactjs/static/css/main.415020a6.css.map",
-    "main.db321f03.js.map": "/spring-security-reactjs/static/js/main.db321f03.js.map",
-    "787.7e8b6def.chunk.js.map": "/spring-security-reactjs/static/js/787.7e8b6def.chunk.js.map"
+    "main.a7d27268.js.map": "/spring-security-reactjs/static/js/main.a7d27268.js.map",
+    "787.7d9febbf.chunk.js.map": "/spring-security-reactjs/static/js/787.7d9febbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415020a6.css",
-    "static/js/main.db321f03.js"
+    "static/js/main.a7d27268.js"
   ]
 }
