@@ -2,7 +2,7 @@
   "name": "spring-security",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://meewai.github.io/spring-security-learning/",
+  "homepage": "https://meewai.github.io/spring-security-reactjs/",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
