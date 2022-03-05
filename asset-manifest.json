@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spring-security-learning/static/css/main.415020a6.css",
-    "main.js": "/spring-security-learning/static/js/main.7ac152a1.js",
-    "static/js/787.7d9febbf.chunk.js": "/spring-security-learning/static/js/787.7d9febbf.chunk.js",
-    "index.html": "/spring-security-learning/index.html",
-    "main.415020a6.css.map": "/spring-security-learning/static/css/main.415020a6.css.map",
-    "main.7ac152a1.js.map": "/spring-security-learning/static/js/main.7ac152a1.js.map",
-    "787.7d9febbf.chunk.js.map": "/spring-security-learning/static/js/787.7d9febbf.chunk.js.map"
+    "main.css": "/spring-security-reactjs/static/css/main.415020a6.css",
+    "main.js": "/spring-security-reactjs/static/js/main.b9337f72.js",
+    "static/js/787.7d9febbf.chunk.js": "/spring-security-reactjs/static/js/787.7d9febbf.chunk.js",
+    "index.html": "/spring-security-reactjs/index.html",
+    "main.415020a6.css.map": "/spring-security-reactjs/static/css/main.415020a6.css.map",
+    "main.b9337f72.js.map": "/spring-security-reactjs/static/js/main.b9337f72.js.map",
+    "787.7d9febbf.chunk.js.map": "/spring-security-reactjs/static/js/787.7d9febbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.415020a6.css",
-    "static/js/main.7ac152a1.js"
+    "static/js/main.b9337f72.js"
   ]
 }
