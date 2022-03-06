@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 100vmin;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,21 +29,15 @@
 }
 
 .container{
-  background-color: #FFFFFF;
-  border-radius: 5px;
-  margin: 10% auto;
-  width: 50%;
-  padding:20px 20px;
-  justify-content: center;
+  margin: auto;
+  width: 100vmin;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  position: relative;
-  align-content: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
 }
-
-.container h2{
-  text-align: center;
-}
-
 
 .loginButton{
   text-align: right;
@@ -66,23 +60,20 @@
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px){
   .container{
-    margin: 50% auto;
-    width: 70%;
+    width: 80vmin;
   }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and mas 767px) */
 @media only screen and (min-width: 601px) and (max-width: 767px){
   .container{
-    margin: 5% auto;
-    width: 70%;
+    width: 100vmin;
   }
 }
 
-/* Medium devices (landscape tablets, min 768px and max 820px ) */
-@media only screen and (min-width: 768px) and (max-width: 820px){
+/* Medium devices (landscape tablets, min 768px and max 978px ) */
+@media only screen and (min-width: 768px) and (max-width: 978px){
   .container{
-    margin: 40% auto;
-    width: 70%;
+    width: 80vmin;
   }
 }

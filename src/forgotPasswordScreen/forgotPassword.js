@@ -1,4 +1,3 @@
-import "./forgotPassword.css"
 import {Box, Button, FormControl, Grid, IconButton, InputAdornment, OutlinedInput} from "@mui/material";
 import React from "react";
 import TextField from "@mui/material/TextField";
@@ -32,10 +31,10 @@ const ForgotPassword = () => {
 
     return (
         <div className="container">
-            <h2>Forgot Password</h2>
             <form>
-                <Box sx={{flexGrow: 1}}>
+                <Box sx={{flexGrow: 1}}  className="loginBox">
                     <Grid container spacing={1} justifyContent="center">
+                        <h2>Forgot Password</h2>
                         <Grid item lg={12} xs={12} sm={12}>
                             <TextField fullWidth variant="outlined" label="Email" type="text"/>
                         </Grid>
@@ -70,7 +69,7 @@ const ForgotPassword = () => {
 
                         <Grid  item lg={12} xs={12} sm={12}>
                             <div className="loginButton">
-                                <Button variant="contained" size="medium">Reset Password</Button>
+                                <Button fullWidth variant="contained" size="medium">Reset Password</Button>
                             </div>
                         </Grid>
                     </Grid>
